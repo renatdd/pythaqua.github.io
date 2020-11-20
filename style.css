@@ -1,0 +1,67 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #353535;
+    color: #E3D7FF;
+}
+
+h1,h2,h3 {
+    font-family: 'Cinzel', serif;
+    color: #92c9b1;
+}
+
+a {
+    color: #E3D7FF;
+}
+
+li {
+    line-height: 20px;
+}
+
+.title-main {
+    text-align: left;
+}
+
+.greater-font {
+    font-size: 1.8em;
+    line-height: 1;
+}
+
+.medium-font {
+    font-size: 1.3em;
+    line-height: 1;
+}
+
+.smaller-font {
+    font-size: 0.8em;
+    line-height: 1;
+}
+
+strong {
+    font-weight: 600;
+}
+
+
+#trybe-logo {
+    background-color: #E3D7FF;
+}
+
+#name {
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 40px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+#name-prefix {
+    font-weight: 800;
+    line-height: 1px;
+    margin-bottom: 15px;
+    margin-top: 100px;
+}
+
+#profile-img {
+    margin-top: 0px;
+    border-radius: 50%;
+}
